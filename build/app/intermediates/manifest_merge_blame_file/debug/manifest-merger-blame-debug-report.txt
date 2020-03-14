@@ -43,8 +43,8 @@
 30        android:debuggable="true"
 31        android:icon="@mipmap/ic_launcher"
 31-->C:\Users\Dell\Desktop\flutter_simple_todo\android\app\src\main\AndroidManifest.xml:14:9-43
-32        android:label="combine" >
-32-->C:\Users\Dell\Desktop\flutter_simple_todo\android\app\src\main\AndroidManifest.xml:13:9-32
+32        android:label="Todo with provider" >
+32-->C:\Users\Dell\Desktop\flutter_simple_todo\android\app\src\main\AndroidManifest.xml:13:9-43
 33        <activity
 33-->C:\Users\Dell\Desktop\flutter_simple_todo\android\app\src\main\AndroidManifest.xml:15:9-26:20
 34            android:name="com.example.combine.MainActivity"

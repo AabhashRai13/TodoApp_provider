@@ -10,7 +10,7 @@
     <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="combine"
+        android:label="Todo with provider"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
