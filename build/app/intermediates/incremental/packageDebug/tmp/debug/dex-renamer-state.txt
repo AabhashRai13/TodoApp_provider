@@ -1,0 +1,4 @@
+#Sun Mar 15 01:45:19 NPT 2020
+base.0=C\:\\Users\\Dell\\Desktop\\flutter_simple_todo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
